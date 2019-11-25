@@ -5,10 +5,10 @@ import {Injectable} from '@angular/core';
 })
 export class YoutubeService {
   playlist = [
-    {id: 'CX11yw6YL1w', song: 'Céline Dion - Ashes (from the Deadpool 2 Motion Picture Soundtrack)'},
-    {id: 'HBYirj2c_jw', song: 'Deadpool 2 - Take on Me'},
-    {id: 'N6O2ncUKvlg', song: 'Nelly - Just A Dream'},
-    {id: 'uelHwf8o7_U', song: 'Eminem - Love The Way You Lie ft. Rihanna'},
+    {id: 'pWOlc63Kg9w', song: '1977 Vlog - SỐNG MÒN - GIÁO ÁN LỬA THIÊNG'},
+    {id: 'tCzvYMW-jO8', song: '1977 Vlog - Chị Dậu Parody - Kỷ Nguyên Hắc Ám'},
+    {id: '6Iji2oTZ5U0', song: '1977 Vlog - Vợ chồng A Phủ Parody - Vòng Xoáy Của Bạc'},
+    {id: '028YiboiYj0', song: 'NHẠC TRẺ REMIX 2020 TUYỂN CHỌN'},
     {id: 'WpYeekQkAdc', song: 'The Black Eyed Peas - Where Is The Love?'}
   ];
 
